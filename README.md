@@ -1,10 +1,10 @@
 ## Hi there 👋:
-- I am a aspiring software developer from India
-- I am a fourth year undergrad at National Institute of Technology, Uttarakhand, India
-- I have great interest in web development and competitive programming
-- I have made several projects in the field of web development
-- Currently, I am trying my hands on Machine Learning and GenAI
-- Contach me here: mishrasuyash411@gmail.com
+- 😄 I am a aspiring software developer from India
+- 📚 I am a fourth year undergrad at National Institute of Technology, Uttarakhand, India
+- 😇 I have great interest in web development and competitive programming
+- ⚡ I have made several projects in the field of web development
+- 🌱 Currently, I am trying my hands on Machine Learning and GenAI
+- 💬 Reach me: mishrasuyash411@gmail.com
 <!--
 **suy485mishra/suy485mishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
